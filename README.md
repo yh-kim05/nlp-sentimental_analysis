@@ -26,12 +26,12 @@ Sentimental Analysis with NLP
 1. 데이터 전처리 - regex, labeling, 
 
 2. Tokenization
-            *  형태소 분석기 Mecab
+    *  형태소 분석기 Mecab
 3. Stop words
-            *  불용어 stop_words 지정
-            *  불용어 토큰 제거
+    *  불용어 stop_words 지정
+    *  불용어 토큰 제거
 4. Labeled words sort
-            * 긍정/부정 단어 모으기 및 빈도 수 확인
+    * 긍정/부정 단어 모으기 및 빈도 수 확인
 5. Visualization
     * matplotlib, wordcloud
 
